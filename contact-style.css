@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+.contact-info {
+    line-height: 25px;
+}
+
+.contact-title {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 60px;
+    color: rgb(70, 43, 2);
+}
+
+.contact-subtitle {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 21px;
+    font-weight: 700;
+    color: rgb(36, 28, 16);
+}
+
+.contact-container {
+    background: white;
+    width: 990px;
+    margin: 0 auto 30px auto;
+    padding: 30px 20px;
+    border: 1px solid #f1f1f1;
+    border-radius: 0px 0px 4px 4px;
+    display: flex;
+  }
+  
+  
+
+

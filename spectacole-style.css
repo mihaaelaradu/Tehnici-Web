@@ -1,0 +1,74 @@
+.spectacole {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-bottom: 0;
+}
+.spectacole {
+    width: calc(33% - 13px);
+    margin-bottom: 20px;
+}
+
+@media (max-width: 990px) {
+    .spectacole {
+        width: calc(50% - 10px);
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 767px) {
+    .spectacole {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+.hello{
+    background: beige;
+    width: 990px;
+    margin: 0 auto 30px auto;
+    padding: 30px 20px;
+    border: 1px solid #f1f1f1;
+    box-shadow: 0px 6px #c0392b;
+    border-radius: 0px 0px 4px 4px;
+}
+
+
+
+
+.spectacole {
+    padding: 0 6px;
+    width: 24.99999%;
+    margin: 5px;
+    border: 1px solid #ccc;
+    width: 180px;
+  }
+
+  .spectacole:hover{
+    border: 1px solid #777;
+  }
+  
+.spectacole img {
+    width: 100%;
+    height: auto;
+  }
+
+
+
+.despre-info {
+    line-height: 25px;
+}
+
+.despre-title {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 60px;
+}
+
+.despre-subtitle {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 21px;
+    font-weight: 700;
+}
+
+
